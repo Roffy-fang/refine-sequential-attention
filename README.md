@@ -6,3 +6,14 @@ This work is forked from fabulous [neuraltalk2](https://github.com/karpathy/neur
  
 ![overview](https://github.com/Roffy-fang/refine-sequential-attention/blob/master/vis/fig1.jpg)
  
+### License
+
+BSD License.
+
+### Acknowledgements
+
+Parts of this code were written in collaboration with my labmate [Justin Johnson](http://cs.stanford.edu/people/jcjohns/). 
+
+I'm very grateful for [NVIDIA](https://developer.nvidia.com/deep-learning)'s support in providing GPUs that made this work possible.
+
+I'm also very grateful to the maintainers of Torch for maintaining a wonderful deep learning library.
